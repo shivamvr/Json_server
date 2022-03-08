@@ -121,5 +121,96 @@
       "id": 11
     }
   ],
-  "trash": []
+  "trash": [],
+  "users": [
+    {
+      "avatar": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "username": "shivam23",
+      "name": "shivam",
+      "email": "example@gmail.com",
+      "password": "1234",
+      "id": "1"
+    },
+    {
+      "avatar": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "username": "Olivia24",
+      "name": "Olivia",
+      "email": "example1@gmail.com",
+      "password": "2341",
+      "id": "2"
+    },
+    {
+      "avatar": "https://images.pexels.com/photos/1040881/pexels-photo-1040881.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "username": "shivam25",
+      "name": "shivam2",
+      "email": "example2@gmail.com",
+      "password": "3412",
+      "id": "3"
+    },
+    {
+      "avatar": "https://images.pexels.com/photos/3981337/pexels-photo-3981337.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "username": "shivam26",
+      "name": "shivam3",
+      "email": "example3@gmail.com",
+      "password": "4123",
+      "id": "4"
+    }
+  ],
+  "posts": [
+    {
+      "image": "https://images.pexels.com/photos/9303860/pexels-photo-9303860.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "text": "lorem one",
+      "userid": "1",
+      "id": "one"
+    },
+    {
+      "image": "https://images.pexels.com/photos/9190637/pexels-photo-9190637.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "text": "lorem two",
+      "userid": "2",
+      "id": "two"
+    },
+    {
+      "image": "https://images.pexels.com/photos/2907607/pexels-photo-2907607.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "text": "lorem three",
+      "userid": "3",
+      "id": "three"
+    },
+    {
+      "image": "https://images.pexels.com/photos/8167373/pexels-photo-8167373.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "text": "lorem four",
+      "userid": "4",
+      "id": "four"
+    },
+    {
+      "image": "https://writestylesonline.com/wp-content/uploads/2018/11/Three-Statistics-That-Will-Make-You-Rethink-Your-Professional-Profile-Picture-1024x1024.jpg",
+      "text": "slfslf",
+      "userid": "1",
+      "id": "255903cf-8e98-42d6-9911-24bdecdef691"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1635480180600-1f0413696374?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1887&q=80",
+      "text": "",
+      "userid": "1",
+      "id": "acd6ae10-d7d7-4fb5-b98a-b222eda55fb6"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1635452067171-5d71fa2807f2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1964&q=80",
+      "text": "",
+      "userid": "1",
+      "id": "a9a58d73-1b87-4139-a438-8841f89559ee"
+    }
+  ],
+  "likes":[
+    { "userid": "1",
+      "postid":"a9a58d73-1b87-4139-a438-8841f89559ee"
+    },
+    {
+      "userid": "1",
+      "postid": "one"
+    },
+    {
+      "userid": "2",
+      "postid": "two"
+    }
+  ]
 }
