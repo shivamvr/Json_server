@@ -231,5 +231,85 @@
       "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere tenetur dolorum asperiores enim fugit labore aperiam nostrum. Sint iure pariatur quam explicabo dolor id tempora. Facilis itaque obcaecati omnis ipsum doloribus, nihil nulla ut sit! Magni eaque pariatur a eius corporis earum nisi nostrum expedita repellendus sapiente ullam quo dolores, inventore dolorum nihil voluptatem ducimus quae quasi deleniti? Neque maiores tempora, ratione nisi dolore ea recusandae dolorum consequatur suscipit magnam id quasi sit sapiente omnis quis accusamus. Id soluta aperiam harum nam reiciendis facilis pariatur velit neque deserunt nostrum. Sunt commodi ipsam libero. Neque nostrum ab ipsa laborum debitis dolores?",
       "likes": "15"
     }
+  ],
+  "income": [
+    {
+      "title": "July salary",
+      "amount": 6000,
+      "date": "2023-06-30T18:30:00.000Z",
+      "category": "salary",
+      "description": "Salary receive at 1pm",
+      "id": 2
+    },
+    {
+      "title": "Cripto",
+      "amount": 50000,
+      "date": "2023-06-18T18:30:00.000Z",
+      "category": "bitcoin",
+      "description": "",
+      "id": 3
+    },
+    {
+      "title": "Freelance",
+      "amount": 50000,
+      "date": "2023-06-02T18:30:00.000Z",
+      "category": "freelancing",
+      "description": "",
+      "id": 4
+    },
+    {
+      "title": "UPI",
+      "amount": 2998,
+      "date": "2023-06-04T18:30:00.000Z",
+      "category": "bank",
+      "description": "",
+      "id": 5
+    },
+    {
+      "title": "Bitcoin",
+      "amount": 100000,
+      "date": "2023-06-14T18:30:00.000Z",
+      "category": "bitcoin",
+      "description": "",
+      "id": 6
+    }
+  ],
+  "expense": [
+    {
+      "title": "Shoes",
+      "amount": 5000,
+      "date": "2023-06-04T18:30:00.000Z",
+      "category": "clothing",
+      "description": "Nike white shoes",
+      "type": "expense",
+      "id": 4
+    },
+    {
+      "title": "headphone",
+      "amount": 15000,
+      "date": "2023-06-02T18:30:00.000Z",
+      "category": "other",
+      "description": "",
+      "type": "expense",
+      "id": 5
+    },
+    {
+      "title": "car emi",
+      "amount": 30000,
+      "date": "2025-01-30T18:30:00.000Z",
+      "category": "travelling",
+      "description": "",
+      "type": "expense",
+      "id": 6
+    },
+    {
+      "title": "Watch",
+      "amount": 50000,
+      "date": "2023-06-12T18:30:00.000Z",
+      "category": "other",
+      "description": "",
+      "type": "expense",
+      "id": 8
+    }
   ]
 }
